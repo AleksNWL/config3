@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<config><admin_password>12345</admin_password><user_password>12345</user_password><users><admin>12345</admin><guest>12345</guest></users></config>
